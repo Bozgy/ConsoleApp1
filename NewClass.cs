@@ -8,6 +8,10 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+
         void metoda() { }
+
+        Console.WriteLine("5g je uzrokovao koronu. masoni.");
+
     }
 }
